@@ -1,1 +1,7 @@
-{}
+{
+  "theme": {
+    "slug": "tcc-dev",
+    "name": "Thee Cowboy Code - Dev",
+    "author": "Carla Chalmers"
+  }  }
+}
